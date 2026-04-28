@@ -1,0 +1,162 @@
+═══════════════════════════════════════════════════════════════════
+        PORTAL VACACIONES — USUARIOS DEL SISTEMA
+        © 2026 Empresa S.A.
+═══════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────────
+ ADMINISTRADORES
+──────────────────────────────────────────────────────────────────
+
+ Nombre       : Carlos Administrador
+ Email        : admin@empresa.com
+ Contraseña   : Admin2024!
+ Rol          : Admin
+ Departamento : Dirección
+
+ Nombre       : Laura Sistemas
+ Email        : laura.sistemas@empresa.com
+ Contraseña   : Laura#2024
+ Rol          : Admin
+ Departamento : IT
+
+──────────────────────────────────────────────────────────────────
+ MANAGERS
+──────────────────────────────────────────────────────────────────
+
+ Nombre       : Marta González López
+ Email        : marta.gonzalez@empresa.com
+ Contraseña   : Marta@1234
+ Rol          : Manager
+ Departamento : Recursos Humanos
+
+ Nombre       : Andrés Fernández Gil
+ Email        : andres.fernandez@empresa.com
+ Contraseña   : Andres#99
+ Rol          : Manager
+ Departamento : Tecnología
+
+ Nombre       : Sofía Martínez Ruiz
+ Email        : sofia.martinez@empresa.com
+ Contraseña   : Sofia2024$
+ Rol          : Manager
+ Departamento : Ventas
+
+ Nombre       : Pablo Jiménez Castro
+ Email        : pablo.jimenez@empresa.com
+ Contraseña   : Pablo!2024
+ Rol          : Manager
+ Departamento : Finanzas
+
+──────────────────────────────────────────────────────────────────
+ EMPLEADOS — RECURSOS HUMANOS
+──────────────────────────────────────────────────────────────────
+
+ Nombre       : Elena Pérez Navarro
+ Email        : elena.perez@empresa.com
+ Contraseña   : Elena#2024
+ Rol          : Empleado
+ Departamento : Recursos Humanos
+
+ Nombre       : Miguel Torres Sanz
+ Email        : miguel.torres@empresa.com
+ Contraseña   : Miguel@1234
+ Rol          : Empleado
+ Departamento : Recursos Humanos
+
+ Nombre       : Carmen Díaz Vega
+ Email        : carmen.diaz@empresa.com
+ Contraseña   : Carmen2024!
+ Rol          : Empleado
+ Departamento : Recursos Humanos
+
+──────────────────────────────────────────────────────────────────
+ EMPLEADOS — TECNOLOGÍA
+──────────────────────────────────────────────────────────────────
+
+ Nombre       : Javier Moreno Blanco
+ Email        : javier.moreno@empresa.com
+ Contraseña   : Javier#456
+ Rol          : Empleado
+ Departamento : Tecnología
+
+ Nombre       : Ana Romero Fuentes
+ Email        : ana.romero@empresa.com
+ Contraseña   : Ana@2024!
+ Rol          : Empleado
+ Departamento : Tecnología
+
+ Nombre       : Luis Herrera Molina
+ Email        : luis.herrera@empresa.com
+ Contraseña   : Luis2024#
+ Rol          : Empleado
+ Departamento : Tecnología
+
+ Nombre       : Patricia Guerrero Alba
+ Email        : patricia.guerrero@empresa.com
+ Contraseña   : Patri!789
+ Rol          : Empleado
+ Departamento : Tecnología
+
+ Nombre       : Sergio Ramos Delgado
+ Email        : sergio.ramos@empresa.com
+ Contraseña   : Sergio@2024
+ Rol          : Empleado
+ Departamento : Tecnología
+
+──────────────────────────────────────────────────────────────────
+ EMPLEADOS — VENTAS
+──────────────────────────────────────────────────────────────────
+
+ Nombre       : Natalia Cruz Ibáñez
+ Email        : natalia.cruz@empresa.com
+ Contraseña   : Natalia#24
+ Rol          : Empleado
+ Departamento : Ventas
+
+ Nombre       : Raúl Ortega Serrano
+ Email        : raul.ortega@empresa.com
+ Contraseña   : Raul2024!
+ Rol          : Empleado
+ Departamento : Ventas
+
+ Nombre       : Isabel Vargas Prieto
+ Email        : isabel.vargas@empresa.com
+ Contraseña   : Isabel@567
+ Rol          : Empleado
+ Departamento : Ventas
+
+ Nombre       : David Castillo Reyes
+ Email        : david.castillo@empresa.com
+ Contraseña   : David#2024
+ Rol          : Empleado
+ Departamento : Ventas
+
+──────────────────────────────────────────────────────────────────
+ EMPLEADOS — FINANZAS
+──────────────────────────────────────────────────────────────────
+
+ Nombre       : Rosa Méndez Aguilar
+ Email        : rosa.mendez@empresa.com
+ Contraseña   : Rosa2024@
+ Rol          : Empleado
+ Departamento : Finanzas
+
+ Nombre       : Alberto Navarro Pons
+ Email        : alberto.navarro@empresa.com
+ Contraseña   : Alberto#1
+ Rol          : Empleado
+ Departamento : Finanzas
+
+ Nombre       : Cristina Llorente Mas
+ Email        : cristina.llorente@empresa.com
+ Contraseña   : Cris@2024
+ Rol          : Empleado
+ Departamento : Finanzas
+
+═══════════════════════════════════════════════════════════════════
+ RESUMEN
+ Total usuarios : 21
+ Admins         : 2
+ Managers       : 4
+ Empleados      : 15
+═══════════════════════════════════════════════════════════════════
